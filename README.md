@@ -1,23 +1,24 @@
-# Data Scientist / Researcher & PhD Candidate / Educator
+# Data Scientist / PhD Candidate & Researcher / Educator
 #### Technical Skills: Python, SQL, R
+#### Software: SPSS
 
 ## Education
 
-PhD Global Leadership and Change / Tiffin University / Projected 2024
+Ph.D. Global Leadership and Change / Tiffin University / Projected 2024
 
-MEd Higher Education Administration & Teaching English / Tiffin University / 2019 & 2017
+M.Ed. Higher Education Administration & Teaching English / Tiffin University / 2019 & 2017
 
-MH English Literature and Composition / Tiffin University / 2016
+M.H. English Literature and Composition / Tiffin University / 2016
 
-BS Data Science and Analysis / Western Governors University / Projected 2024
+B.S. Data Science and Analysis / Western Governors University / Projected 2024
 
-BA International Studies / The Ohio State University / 2008
+B.A. International Studies / The Ohio State University / 2008
 
 ## Work Experience
 
-University Faculty: Tiffin University, Central Ohio Technical College, Columbus State Community College
+**University Faculty:** Tiffin University, Central Ohio Technical College, Columbus State Community College
 
-University Evaluator/Specialist: Western Governors University, Columbus State Community College
+**University Evaluator/Specialist:** Western Governors University, Columbus State Community College
 
 ## Projects
 ### School Lunch and Testing 
