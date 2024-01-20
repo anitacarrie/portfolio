@@ -23,6 +23,7 @@ B.A. International Studies / The Ohio State University / 2008
 ## Projects
 ### School Lunch and Testing 
 ### Solving a Business Problem
+## Publications
 ## Blog
-[publication](https://www.anitagregory.com)
+[AnitaGregory.com](https://www.anitagregory.com)
 
